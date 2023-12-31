@@ -11,12 +11,12 @@ Secure a React Application using OpenID Connect Authorization Code with PKCE
 
 ### Login with Passkeys
 
-Use our login widget to allow easy and secure access to your applications and enjoy all the benefits of Passkeys (FIDO 2 / WebAuthN):
+Use:
 
-[![Passkeys](https://user-images.githubusercontent.com/1366906/223664178-4132faef-4832-4014-b9ab-90c2a8d15436.gif)](https://www.youtube.com/watch?v=cZjHQYurSjw&list=PLTDa7jTlOyRLdABgD2zL0LGM7rx5GZ1IR&index=2 "Passkeys")
+[![Passkeys](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](https://www.youtube.com/watch?v=cZjHQYurSjw&list=PLTDa7jTlOyRLdABgD2zL0LGM7rx5GZ1IR&index=2 "Passkeys")
 
 ### Admin Console
 
-Use [Console](https://zitadel.com/docs/guides/manage/console/overview) or our [APIs](https://zitadel.com/docs/apis/introduction) to setup organizations, projects and applications.
+Use.
 
-[![Console Showcase](https://user-images.githubusercontent.com/1366906/223663344-67038d5f-4415-4285-ab20-9a4d397e2138.gif)](http://www.youtube.com/watch?v=RPpHktAcCtk "Console Showcase")
+[![Console Showcase](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](http://www.youtube.com/watch?v=RPpHktAcCtk "Console Showcase")
