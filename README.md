@@ -5,7 +5,7 @@
 
 ## Showcase
 
-Secure a React Application using OpenID Connect Authorization Code with PKCE
+Secure
 
 [![Quick Start Guide](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](https://www.youtube.com/watch?v=cNeTebvjNzo "AirSim Neighbourhood environment")
 
