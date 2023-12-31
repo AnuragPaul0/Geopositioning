@@ -5,20 +5,4 @@
 
 ## Showcase
 
-Secure
-
-[![Quick Start Guide](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](https://www.youtube.com/watch?v=cNeTebvjNzo "AirSim Neighbourhood environment")
-
-[![0](https://github.com/AnuragPaul0/Geopositioning/assets/88148165/20ed10c2-c9e8-43cb-b6e6-a60de9aca149)](https://www.youtube.com/watch?v=cNeTebvjNzo "AirSim Neighbourhood environment")
-
-### Login with Passkeys
-
-Use:
-
-[![Passkeys](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](https://www.youtube.com/watch?v=cZjHQYurSjw&list=PLTDa7jTlOyRLdABgD2zL0LGM7rx5GZ1IR&index=2 "Passkeys")
-
-### Admin Console
-
-Use.
-
-[![Console Showcase](https://anuragpaul0.github.io/Geopositioning/Back/video.gif)](http://www.youtube.com/watch?v=RPpHktAcCtk "Console Showcase")
+[![0](https://github.com/AnuragPaul0/Geopositioning/assets/88148165/20ed10c2-c9e8-43cb-b6e6-a60de9aca149)](https://www.youtube.com/watch?v=cNeTebvjNzo "AirSim Neighbourhood environment")[![e](https://github.com/AnuragPaul0/Geopositioning/assets/88148165/320a9186-9b93-4c2b-abc1-ea56b8300586)](https://www.youtube.com/watch?v=pbN-APBX7oI "Passkeys")
