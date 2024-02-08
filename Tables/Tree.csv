@@ -1,0 +1,6 @@
+,Model1,Model2
+KernelFunction,ardsquaredexponential,-
+FitMethod,sr,-
+PredictMethod,fic,-
+Standardize,1,-
+Sigma,0.002,0.002
