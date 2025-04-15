@@ -1,4 +1,6 @@
 # A machine learning approach for UAV-based ground target geopositioning in aerial images.
+[1. Latest.pdf](https://anuragpaul0.github.io/Geopositioning/Anurag%20Paul%2020EC01045.pdf)<br>
+
 [1. Draft.pdf](https://anuragpaul0.github.io/Geopositioning/CV/pdfs/Draft.pdf)<br>
 [2. Geopositioning.pdf](https://anuragpaul0.github.io/Geopositioning/CV/pdfs/Anurag%20Paul%2020EC01045.pdf)<br>
 [3. PPT.pdf](https://anuragpaul0.github.io/Geopositioning/CV/pdfs/PPT.pdf)<br>
